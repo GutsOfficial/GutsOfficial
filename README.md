@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayhan buğdaycı</h1>
 <h3 align="center">A passionate .Net Core developer from Türkiye</h3>
 
-- 📝 I regularly write articles on terapidelisi.com
+- 📝 I regularly write articles on <a href="terapidelisi.com">terapidelisi.com</a>
 
 - 💬 Ask me about **.Net Core mvc ,c# , api**
 
